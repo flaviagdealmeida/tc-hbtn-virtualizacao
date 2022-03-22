@@ -3,5 +3,5 @@
 | ---- | ---- |
 | GE | Virtualização em Nuvem |
 | Fundação Bradesco | Virtualização de Data Center |
-| Mackenzie | Virtualização de Servidores |
+| Mackenzie | Virtualização de Servidores e Armazenamento |
 | Mondial | Virtualização de Desktop, Servidores e Aplicativos |
