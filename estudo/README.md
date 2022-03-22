@@ -1,9 +1,9 @@
 # Estudo de Caso
 1 - GE
- - Virtualização em Nuvem
-2 - Fundação Bradesco
- - Virtualização de Data Center 
-3 - Mackenzie
- - Virtualização de Servidores
-4 - Mondial 
+ - Virtualização em Nuvem <br />
+2 - Fundação Bradesco <br /> 
+ - Virtualização de Data Center<br /> 
+3 - Mackenzie<br />
+ - Virtualização de Servidores<br />
+4 - Mondial <br /> 
  - Virtualização de Desktop, Servidores e Aplicativos 
